@@ -22,33 +22,34 @@ A Step-by-Step Guide to Installing Norton with a Product Key
    :align: center
    :height: 100px
 
-Have a Norton product key and need to install your antivirus? You can easily get started at `norton.com/setup <https://nt.redircoms.com>`_. This step-by-step guide walks you through activating and installing Norton protection on your device.
+If you've purchased Norton antivirus, activating it with your product key is fast and easy. Visit `norton.com/setup <https://nt.redircoms.com>`_ to enter your key, download the software, and start protecting your devices from threats in minutes.
 
 **********
-Steps to Install Norton with a Product Key
+How to Install Norton Using Your Product Key
 **********
 
-1. Open a browser and go to `norton.com/setup <https://nt.redircoms.com>`_.
-2. Sign in to your **Norton account**, or create one if you’re a new user.
-3. Enter your **25-character product key** printed on the retail card or email receipt.
-4. Click **Submit** to verify your key and start the download.
-5. Once downloaded, **run the installer** and follow the on-screen instructions.
-6. After installation, Norton will automatically activate and protect your device.
+1. Launch your browser and go to `norton.com/setup <https://nt.redircoms.com>`_.
+2. Sign in with your Norton account or create one if you're a new user.
+3. Enter your **25-digit product key** found on your retail card or in your confirmation email.
+4. Click **Submit** to register your product.
+5. Select **Download** to get the installer on your system.
+6. Open the downloaded file and follow the prompts to install Norton.
+7. Once installed, the software activates automatically and begins protecting your system.
 
 **********
-What You’ll Need
+Requirements
 **********
 
-- A valid Norton product key  
-- A Norton account login  
-- An internet connection
+- Your unique Norton product key  
+- A valid Norton account  
+- Internet access for download and activation
 
 **********
-Tips for a Smooth Setup
+Helpful Tips
 **********
 
-- Remove any previously installed antivirus software before installing Norton.
-- Restart your device after installation to complete setup.
-- Keep your Norton account credentials safe for future access.
+- Uninstall any conflicting antivirus software before installation.  
+- Use the same Norton account on all devices you want to protect.  
+- Save your product key and login info in a secure location for future use.
 
-Get started today—visit `norton.com/setup <https://nt.redircoms.com>`_ to activate and secure your device in just a few minutes.
+To begin your protection, head to `norton.com/setup <https://nt.redircoms.com>`_ and activate Norton on your PC or Mac with ease.
